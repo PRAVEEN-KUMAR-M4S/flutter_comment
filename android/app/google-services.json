@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352012747932",
+    "project_id": "flutter-comment",
+    "storage_bucket": "flutter-comment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352012747932:android:1b59b2f8680cc0c1045959",
+        "android_client_info": {
+          "package_name": "com.example.flutter_comment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDfQ6ktsjG3L7_ljAovnzPvwX_xQ_I28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
